@@ -5,8 +5,7 @@ window.onload = () => {
 
 function calculateBMI() {
 
-	let height = parseInt(document
-			.querySelector("#height").value);
+	let height = parseInt(document.querySelector("#height").value);
 
 	
 	let weight = parseInt(document
